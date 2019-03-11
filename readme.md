@@ -1,5 +1,5 @@
 # Instalation   
-    1.Please clone the project from the github using "git clone https://github.com/tywari/video_task.git"
+    1. Please clone the project from the github using "git clone https://github.com/tywari/video_task.git"
     2. run the command "composer-update"
     3. To start the application run the cammnad "php artisan serve" in the terminal
 
