@@ -7,8 +7,11 @@
 1. open the .env file and change the database name,host name, database name, and password
 
 
-#Api-urls
+# Api Urls
 1. http://127.0.0.1:8000/api/v1/user-videos/{user_name}
 2. http://127.0.0.1:8000/api/v1/video-info/{video_id}
 3. http://127.0.0.1:8000/api/v1/update/{video_id}
     
+
+# Unit Test
+ All the unit test are written in ExampleTest File
